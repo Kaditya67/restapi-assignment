@@ -62,6 +62,6 @@ Two models were created to represent the database structure:
 - Used RetrieveAPIView for retrieving specific bank or branch details.
 
 ##### Time Taken
-Approximate Time:
-Development: 2-3 hours
-Documentation and Deployment: 1-2 hours
+###### Approximate Time:
+- Development: 2-3 hours
+- Documentation and Deployment: 1-2 hours
