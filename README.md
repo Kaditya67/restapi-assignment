@@ -36,17 +36,17 @@ Two models were created to represent the database structure:
 - state: State where the branch is located.
 
 ##### API Endpoints
-###### Banks List: /api/banks/
+###### Banks List: `/api/banks/`
 
 - Method: GET
 - Returns a list of all banks with their id, name, and url fields.
 
-###### Bank Detail: /api/banks//<id>/
+###### Bank Detail: `/api/banks/<id>/branches`
 
 - Method: GET
-- Returns details of a specific bank.
+- Returns list of all bank details of the branch of the selected bank id.
 
-###### Branch Detail: /api/branches//<ifsc>/
+###### Branch Detail: `/api/branches/<ifsc>/`
 
 - Method: GET
 - Returns details of a specific branch based on its IFSC code.
