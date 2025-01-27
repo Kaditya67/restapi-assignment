@@ -41,12 +41,12 @@ Two models were created to represent the database structure:
 - Method: GET
 - Returns a list of all banks with their id, name, and url fields.
 
-###### Bank Detail: /api/banks/<id>/
+###### Bank Detail: /api/banks//<id>/
 
 - Method: GET
 - Returns details of a specific bank.
 
-###### Branch Detail: /api/branches/<ifsc>/
+###### Branch Detail: /api/branches//<ifsc>/
 
 - Method: GET
 - Returns details of a specific branch based on its IFSC code.
