@@ -64,4 +64,4 @@ Two models were created to represent the database structure:
 ##### Time Taken
 ###### Approximate Time:
 - Development: 2-3 hours
-- Documentation and Deployment: 1-2 hours
+- Documentation: 30 minutes
